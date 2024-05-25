@@ -1,5 +1,5 @@
 <a href="#">
-<img src="https://github.com/rod-barrera/rod-barrera/blob/main/banner2.png?raw=true" />
+<img src="https://github.com/rod-barrera/rod-barrera/blob/main/banner.png" />
 </a>
 
 ---
@@ -26,7 +26,7 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 
 ### Proyectos destacados
 <a href="https://github.com/rod-barrera/linkly">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rod-barrera&repo=linkly&me"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rod-barrera&repo=linkly"/>
 </a>
 
 ---
