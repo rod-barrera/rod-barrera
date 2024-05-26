@@ -11,8 +11,19 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 ---
 
 ### Lenguajes y Herramientas
+#### Frontend
 <a href="#">
-<img width="500px"  src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,python,django,flask,git,github,windows&perline=12"  />
+<img src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css"  />
+</a>
+
+#### Backend
+<a href="#">
+<img src="https://skillicons.dev/icons?i=python,django,flask,postgresql"  />
+</a>
+
+#### Otros
+<a href="#">
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,windows,visualstudiocode&perline=12"  />
 </a>
 
 ---
