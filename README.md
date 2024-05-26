@@ -23,7 +23,7 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 
 #### Otros
 <a href="#">
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,windows,visualstudiocode&perline=12"  />
+<img src="https://skillicons.dev/icons?i=nodejs,git,github,windows"  />
 </a>
 
 ---
