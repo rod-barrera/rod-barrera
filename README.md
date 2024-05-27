@@ -18,12 +18,17 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 
 #### Backend
 <a href="#">
-<img src="https://skillicons.dev/icons?i=python,django,flask,postgresql"  />
+<img src="https://skillicons.dev/icons?i=python,django,flask"  />
+</a>
+
+#### Database
+<a href="#">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql"  />
 </a>
 
 #### Otros
 <a href="#">
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,windows"  />
+<img src="https://skillicons.dev/icons?i=nodejs,git,github"  />
 </a>
 
 ---
