@@ -10,7 +10,7 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 
 ---
 
-### Lenguajes y Herramientas
+### Tecnologías
 #### Frontend
 <a href="#">
 <img src="https://skillicons.dev/icons?i=js,react,bootstrap,html,css"  />
@@ -26,7 +26,7 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 <img src="https://skillicons.dev/icons?i=postgresql,mysql"  />
 </a>
 
-#### Otros
+#### Otras
 <a href="#">
 <img src="https://skillicons.dev/icons?i=nodejs,git,github"  />
 </a>
