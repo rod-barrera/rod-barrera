@@ -18,7 +18,7 @@ Soy un Desarrollador Full Stack Junior con gran motivación para crecer profesio
 
 #### Frameworks
 <a href="#">
-<img src="https://skillicons.dev/icons?i=django,nextjs"  />
+<img src="https://skillicons.dev/icons?i=nextjs,django"  />
 </a>
 
 #### Database
